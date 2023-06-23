@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "tunnel-ssh": "^4.1.4"
+    "tunnel-ssh": "^4.1.6"
   }
 }
